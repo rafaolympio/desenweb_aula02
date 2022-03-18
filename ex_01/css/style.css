@@ -1,0 +1,39 @@
+body{
+	background-color: #FFD6A6;
+	font-size: 15pt;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
+
+h1,h2{
+	color: #2A68B5;
+	text-align: left;
+}
+
+h1{
+	font-size: 50pt;
+}
+
+h2{
+	margin-left: 20px;
+}
+
+.img1{
+	width: 650px;
+}
+
+.img2{
+	width: 200px;
+	margin: 10px;
+}
+
+a{
+	color: #E87F07;
+}
+
+ul{
+	color: #E87F07;
+}
