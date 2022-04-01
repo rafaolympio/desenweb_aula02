@@ -1,0 +1,59 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	text-align: auto;
+}
+
+
+.container-clearfix{
+	width: 100px;
+	/*margin: 400px;*/
+}
+
+nav{
+	text-align: right;
+}
+
+ul{
+	display: flex; 
+	list-style: none;
+
+}
+
+
+li{
+	margin-left: 20px;
+}
+
+
+
+section{
+	display: flex;
+	align-items: line;
+	margin: 20px;
+}
+
+article{
+	width: 500px;
+	margin: 20px;
+	text-align: center;
+	align-items: center;
+}
+
+.banner {
+	width: 250px;
+    background:url('img/banner.jpg'); 
+}
+
+.caixa {
+	position: absolute;
+	background: rgb(0, 0, 0);  /* fallback color */
+	background: rgba(0, 0, 0, 0.7);
+	color:#fff;
+	text-align: left;
+	width: 300px;
+}
+
+a{
+	text-decoration: none;
+}
